@@ -10,4 +10,4 @@ Our purpose to call this collection `AnaLaTeX` is as follows:
 2. In phonological point of view, sounds like `analytic` which is just a linguistic game. =)
 
 ## Contribution
-If you mind to contribute to this repository and make it more valuable, or found a bug in our codes, don't hesitate and inform us through submit an issue. You are welcomed in our community.
+If you mind to contribute to this repository and make it more valuable, or found a bug in our codes, don't hesitate and inform us through submit an issue. You are welcomed in our community. To read the contributing guidelines see [CONTRIBUTING](https://github.com/kntupssa/.github/tree/main/CONTRIBUTING.en.md).
