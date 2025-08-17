@@ -55,7 +55,7 @@ Now, to better understand how to create a command, let’s review some examples:
 *Example 2*: Let’s create a command that generates a "ket" in Dirac notation.
 
 ```latex
-\NewDocumentCommad{\ket}{m}{ %
+\NewDocumentCommand{\ket}{m}{ %
     \left|#1\right.\rangle
 } %
 
