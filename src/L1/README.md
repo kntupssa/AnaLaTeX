@@ -1,4 +1,3 @@
-<!-- TODO: English version must be added. -->
 🇮🇷 fa | [🇬🇧 en](./README.en.md)
 
 # ساختن دستورهای جدید در LaTeX
