@@ -58,7 +58,7 @@
 *مثال دوم*: می‌خواییم یک دستور بسازیم که برامون «کت» رو در نمادگذاری دیراک بسازه.
 
 ```latex
-\NewDocumentCommad{\ket}{m}{ %
+\NewDocumentCommand{\ket}{m}{ %
     \left|#1\right.\rangle
 } %
 
