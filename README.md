@@ -15,6 +15,8 @@ Our purpose to call this collection `AnaLaTeX` is as follows:
 - [Program Flow and Inputs Control in LaTeX (Part 1)](./src/L3/README.en.md)
 - [Program Flow and Inputs Control in LaTeX (Part 2)](./src/L4/README.en.md)
 - [Creating Our Own Packages](./src/L5/README.en.md)
+- [Creating classes in LaTeX](./src/L6/README.en.md)
+
 
 ## Contribution
 If you mind to contribute to this repository and make it more valuable, or found a bug in our codes, don't hesitate and inform us through submit an issue. You are welcomed in our community. To read the contributing guidelines see [CONTRIBUTING](https://github.com/kntupssa/.github/tree/main/CONTRIBUTING.en.md).
